@@ -49,3 +49,16 @@ Python Software Foundation [по ліцензії CC0](https://creativecommons.o
 * Julien Palard - French team
 * Tomo Cocoa - Japanese team
 
+**Внесок спільноти**  
+
+| Перекладач      | Кількість документів |  
+|:----------------|:--------------------:|  
+|Dmytro Kazanzhy|490|
+|Olga Tomakhina|5|
+|Nadiia Gorash <nmaiboroda@gmail.com>|4|
+|Taras Kuzyo <kuzyo.taras@gmail.com>|3|
+|Vadim Kashirny|2|
+|Tetiana Agarkova|2|
+|Євгеній Гизила|1|
+|serhii pavlenko|1|
+|Stanislav Silin|1|
