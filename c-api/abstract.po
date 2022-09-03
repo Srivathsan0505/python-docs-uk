@@ -5,7 +5,6 @@
 #
 # Translators:
 # Dmytro Kazanzhy, 2022
-# Taras Kuzyo <kuzyo.taras@gmail.com>, 2022
 #
 #, fuzzy
 msgid ""
@@ -14,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-16 06:28+0000\n"
 "PO-Revision-Date: 2021-06-28 00:47+0000\n"
-"Last-Translator: Taras Kuzyo <kuzyo.taras@gmail.com>, 2022\n"
+"Last-Translator: Dmytro Kazanzhy, 2022\n"
 "Language-Team: Ukrainian (https://www.transifex.com/python-doc/teams/5390/"
 "uk/)\n"
 "MIME-Version: 1.0\n"
@@ -47,6 +46,6 @@ msgid ""
 "value yet."
 msgstr ""
 "Ці функції неможливо використовувати для об’єктів, які не були "
-"ініціалізовані належним чином, наприклад, об’єкт :class:`list`,  який "
-"створений за допомогою :c:func:`PyList_New`, проте для його елементів не "
-"було задано значення відмінні від ``NULL``."
+"ініціалізовані належним чином, наприклад, об’єкт списку,  який створений за "
+"допомогою :c:func:`PyList_New`, проте для його елементів не було задано "
+"значення відмінні від ``NULL``."
