@@ -166,7 +166,7 @@ msgid "DOMEventStream Objects"
 msgstr "Об’єкти DOMEventStream"
 
 msgid "Support for :meth:`sequence protocol <__getitem__>` is deprecated."
-msgstr ""
+msgstr "Підтримка :meth:`протоколу послідовності <__getitem__>` припинена."
 
 msgid ""
 "Return a tuple containing *event* and the current *node* as :class:`xml.dom."
