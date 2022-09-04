@@ -495,7 +495,7 @@ msgstr ""
 "Використовуйте :func:`os.getenvb`, якщо ви хочете використати інше кодування."
 
 msgid ":ref:`Availability <availability>`: most flavors of Unix, Windows."
-msgstr ":ref:`Доступність <availability>`: більшість варіантів Unix, Windows."
+msgstr ":ref:`Доступність <availability>`: більшість різновидів Unix, Windows."
 
 msgid ""
 "Return the value of the environment variable *key* if it exists, or "
