@@ -3,7 +3,7 @@
 ![build](https://github.com/python/python-docs-uk/workflows/.github/workflows/update-and-build.yml/badge.svg)
 ![100.00% прогрес перекладу](https://img.shields.io/badge/прогрес_перекладу-100.00%25-0.svg)
 ![хід перекладу всієї документації](https://img.shields.io/badge/dynamic/json.svg?label=всього&query=$.uk&url=http://gce.zhsj.me/python/newest)
-![9 перекладачів](https://img.shields.io/badge/перекладачів-9-0.svg)
+![10 перекладачів](https://img.shields.io/badge/перекладачів-10-0.svg)
 
 Якщо ви знайшли помилку або маєте пропозицію,
 [додати issue](https://github.com/python/python-docs-uk/issues) у цьому проекті або запропонуйте зміни:
@@ -64,6 +64,7 @@ Python Software Foundation [по ліцензії CC0](https://creativecommons.o
 |Vadim Kashirny|2|
 |Tetiana Agarkova|2|
 |Taras Kuzyo <kuzyo.taras@gmail.com>|2|
+|hellowfacey|1|
 |Євгеній Гизила|1|
 |serhii pavlenko|1|
 |Stanislav Silin|1|
