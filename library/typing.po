@@ -345,7 +345,7 @@ msgstr ""
 "використання в ``Callable``."
 
 msgid "Generics"
-msgstr "Дженерики"
+msgstr "Узагальнення"
 
 msgid ""
 "Since type information about objects kept in containers cannot be statically "
