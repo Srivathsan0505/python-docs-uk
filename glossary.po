@@ -8,6 +8,7 @@
 # Stanislav Silin, 2022
 # Dmytro Kazanzhy, 2022
 # Taras Kuzyo <kuzyo.taras@gmail.com>, 2022
+# Vadim Kashirny, 2022
 #
 #, fuzzy
 msgid ""
@@ -16,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-16 06:28+0000\n"
 "PO-Revision-Date: 2021-06-28 00:47+0000\n"
-"Last-Translator: Taras Kuzyo <kuzyo.taras@gmail.com>, 2022\n"
+"Last-Translator: Vadim Kashirny, 2022\n"
 "Language-Team: Ukrainian (https://www.transifex.com/python-doc/teams/5390/"
 "uk/)\n"
 "MIME-Version: 1.0\n"
@@ -320,8 +321,9 @@ msgid ""
 "Benevolent Dictator For Life, a.k.a. `Guido van Rossum <https://gvanrossum."
 "github.io/>`_, Python's creator."
 msgstr ""
-"Доброзичливий диктатор на все життя, також відомий як `Гвідо ван Россум "
-"<https://gvanrossum.github.io/>`_, творець Python."
+"Доброзичливий диктатор на все життя (BDFL - Benevolent Dictator For Life), "
+"також відомий як `Гвідо ван Россум <https://gvanrossum.github.io/>`_, "
+"творець Python."
 
 msgid "binary file"
 msgstr "двійковий файл"
@@ -437,7 +439,7 @@ msgstr ""
 "module <bytecodes>`."
 
 msgid "callback"
-msgstr "зворотній дзвінок"
+msgstr "зворотній виклик"
 
 msgid ""
 "A subroutine function which is passed as an argument to be executed at some "
@@ -514,7 +516,7 @@ msgstr ""
 "ігнорувати."
 
 msgid "context manager"
-msgstr "менеджер контексту"
+msgstr "контекстний менеджер"
 
 msgid ""
 "An object which controls the environment seen in a :keyword:`with` statement "
@@ -541,7 +543,7 @@ msgstr ""
 "змінних у паралельних асинхронних завданнях. Див. :mod:`contextvars`."
 
 msgid "contiguous"
-msgstr "суміжні"
+msgstr "суміжний"
 
 msgid ""
 "A buffer is considered contiguous exactly if it is either *C-contiguous* or "
@@ -675,7 +677,7 @@ msgstr ""
 "Називається хешем у Perl."
 
 msgid "dictionary comprehension"
-msgstr "розуміння словника"
+msgstr "dictionary comprehension"
 
 msgid ""
 "A compact way to process all or part of the elements in an iterable and "
@@ -722,7 +724,7 @@ msgstr ""
 "місце для документування об’єкта."
 
 msgid "duck-typing"
-msgstr "качкодрукування"
+msgstr "Качина типізація"
 
 msgid ""
 "A programming style which does not look at an object's type to determine if "
@@ -757,12 +759,12 @@ msgid ""
 "statements.  The technique contrasts with the :term:`LBYL` style common to "
 "many other languages such as C."
 msgstr ""
-"Легше попросити вибачення, ніж дозволу. Цей поширений стиль кодування Python "
-"припускає існування дійсних ключів або атрибутів і перехоплює винятки, якщо "
-"припущення виявиться хибним. Цей чистий і швидкий стиль характеризується "
-"наявністю багатьох операторів :keyword:`try` і :keyword:`except`. Техніка "
-"контрастує зі стилем :term:`LBYL`, поширеним у багатьох інших мовах, таких "
-"як C."
+"Легше попросити вибачення, ніж дозволу (Easier to ask for forgiveness than "
+"permission). Цей поширений стиль кодування Python припускає існування "
+"дійсних ключів або атрибутів і перехоплює винятки, якщо припущення виявиться "
+"хибним. Цей чистий і швидкий стиль характеризується наявністю багатьох "
+"операторів :keyword:`try` і :keyword:`except`. Техніка контрастує зі стилем :"
+"term:`LBYL`, поширеним у багатьох інших мовах, таких як C."
 
 msgid "expression"
 msgstr "вираз"
