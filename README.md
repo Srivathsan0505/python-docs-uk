@@ -59,9 +59,9 @@ Python Software Foundation [по ліцензії CC0](https://creativecommons.o
 | Перекладач      | Кількість документів |  
 |:----------------|:--------------------:|  
 |Dmytro Kazanzhy|490|
+|Vadim Kashirny|6|
 |Olga Tomakhina|5|
 |Nadiia Gorash <nmaiboroda@gmail.com>|4|
-|Vadim Kashirny|2|
 |Tetiana Agarkova|2|
 |Taras Kuzyo <kuzyo.taras@gmail.com>|2|
 |hellowfacey|1|
